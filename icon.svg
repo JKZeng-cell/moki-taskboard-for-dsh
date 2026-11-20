@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="MOKI任务台">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#216653"/>
+  <path d="M15 18h34M15 32h15M15 46h9" fill="none" stroke="#F3FFF9" stroke-width="5.4" stroke-linecap="round"/>
+  <path d="m33 39 7 7 11-16" fill="none" stroke="#B6F2CE" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

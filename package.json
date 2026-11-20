@@ -1,0 +1,54 @@
+{
+  "name": "dsh-moki-taskboard",
+  "version": "0.1.12",
+  "description": "MOKI任务台 for DSH | Project boards, agent sessions and delivery reviews for DeepSeek Harness",
+  "author": "JKZeng",
+  "type": "module",
+  "exports": {
+    ".": "./dist/host.mjs",
+    "./client": "./client.js",
+    "./icon": "./icon.svg",
+    "./locale/*.json": "./locale/*.json"
+  },
+  "files": [
+    "dist",
+    "client.js",
+    "icon.svg",
+    "locale",
+    "cordis.patch.yml",
+    "README.md",
+    "THIRD_PARTY_NOTICES.md",
+    "README.zh-CN.md",
+    "media/activity.png"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-sidebar",
+        "@deepseek-ai/dsh-client-ui-workspace"
+      ]
+    }
+  },
+  "engines": {
+    "node": ">=24",
+    "dsh": ">=0.2.2-rc.1 <0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKZeng-cell/moki-taskboard-for-dsh.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/JKZeng-cell/moki-taskboard-for-dsh",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "kanban",
+    "ai-agent",
+    "task-management"
+  ]
+}
