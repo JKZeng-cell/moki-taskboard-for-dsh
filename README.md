@@ -4,6 +4,8 @@
 
 **Windows · DSH plugin v0.1.12 · MIT**
 
+[DSH community showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/13890) · [DSH launch covers and carousel](media/dsh-launch/README.md)
+
 MOKI adds a project taskboard to DeepSeek Harness Desktop. Track requests from chats, dispatch tasks to DSH sessions, and open versioned files beside the board while reviewing a delivery.
 
 [Install](#install) · [Projects](#projects) · [Chat capture](#capture) · [Quick submission](#quick) · [Files](#files) · [Review](#review)

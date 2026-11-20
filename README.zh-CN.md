@@ -4,6 +4,8 @@
 
 **Windows · DSH plugin v0.1.12 · MIT**
 
+[DSH 官方社区展示帖](https://github.com/deepseek-ai/deepseek-harness/discussions/13890) · [DSH 专属封面与小红书图文](media/dsh-launch/README.md)
+
 在 DeepSeek Harness Desktop 的侧栏打开任务台，把聊天里提到的工作收进项目。下面以「山野手册 · 春季刊」为例，在同一个工作区里建卡、翻阅附件版本、对照样张验收。
 
 [安装](#install) · [项目与任务](#projects) · [会话自动归集](#capture) · [快捷提交](#quick) · [资产与版本](#files) · [交付验收](#review)
