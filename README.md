@@ -18,6 +18,14 @@ The project database and managed files live on your machine. Agent execution and
 
 ![按周查看任务活动 / DSH](media/activity.png)
 
+## Illustrated tour
+
+See an editorial request turn into a project task through session capture. For quick entry, type a brief, attach a file, and press Ctrl+Enter to save a to-do.
+
+[Explore the five screens, both workflows and DSH file preview](https://github.com/JKZeng-cell/moki-taskboard/blob/main/media/launch/tour/README.en.md) · [Download the nine plates](https://github.com/JKZeng-cell/moki-taskboard/releases/download/v0.2.23/moki-taskboard-gallery-zh.zip)
+
+[![MOKI Taskboard · Feature tour](https://raw.githubusercontent.com/JKZeng-cell/moki-taskboard/main/media/launch/tour/preview.jpg)](https://github.com/JKZeng-cell/moki-taskboard/blob/main/media/launch/tour/README.en.md)
+
 ## Install
 
 Tested with DeepSeek Harness Desktop 0.2.2-rc.1 on Windows. Download the [0.1.12 package](https://github.com/JKZeng-cell/moki-taskboard-for-dsh/releases/download/v0.1.12/dsh-moki-taskboard-0.1.12.tgz), select the local tgz in the desktop plugin manager, or run the following from its download folder with the CLI for your desktop installation.
@@ -31,4 +39,4 @@ Reopen DSH and select MOKI Taskboard for DSH in the sidebar. Files open in the r
 
 [Adapter and buildable source for this release](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/ports/dsh) · [Build instructions](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23)
 
-[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/media/launch)
+[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/main/media/launch)

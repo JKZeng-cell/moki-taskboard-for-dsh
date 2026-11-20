@@ -18,6 +18,14 @@
 
 ![按周查看任务活动 / DSH](media/activity.png)
 
+## 看图了解任务台
+
+一条“做北线补水卡”的编辑需求，经会话归集自动进入春季刊项目。也可以在底部快捷框写说明、拖入附件，再按 Ctrl+Enter 建卡。
+
+[查看五个功能页、两条操作流程和 DSH 预览](https://github.com/JKZeng-cell/moki-taskboard/blob/main/media/launch/tour/README.md) · [下载九图素材](https://github.com/JKZeng-cell/moki-taskboard/releases/download/v0.2.23/moki-taskboard-gallery-zh.zip)
+
+[![MOKI Taskboard · Feature tour](https://raw.githubusercontent.com/JKZeng-cell/moki-taskboard/main/media/launch/tour/preview.jpg)](https://github.com/JKZeng-cell/moki-taskboard/blob/main/media/launch/tour/README.md)
+
 ## 安装
 
 适配 Windows DeepSeek Harness Desktop 0.2.2-rc.1。下载 [0.1.12 安装包](https://github.com/JKZeng-cell/moki-taskboard-for-dsh/releases/download/v0.1.12/dsh-moki-taskboard-0.1.12.tgz)，在桌面插件管理器选取本地 tgz，或在下载目录使用对应桌面版的 CLI 执行以下命令。
@@ -31,4 +39,4 @@ dsh plugin --profile desktop list dsh-moki-taskboard --depth 0
 
 [本版适配器与可复现构建源码](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/ports/dsh) · [构建步骤](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23)
 
-[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/media/launch)
+[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/main/media/launch)
